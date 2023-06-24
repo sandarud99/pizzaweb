@@ -1,0 +1,2 @@
+1. Beginning react-route-dom vs6 'Switch' has now become 'Routes'. This is created with react-route-dom@5  (version 5)
+2. Route now takes an element property instead of component. <Route path='/' exact element={<Home />} />
